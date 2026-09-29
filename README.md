@@ -5,6 +5,8 @@
 Berna R7 implements the *DNA-Kernel Plexus* architecture from
 [Berna R5](https://zenodo.org/records/23015308) (DOI: 10.5281/zenodo.23015308).
 
+**DOI (this release):** [10.5281/zenodo.23037065](https://doi.org/10.5281/zenodo.23037065)
+
 - Model: 1.06B parameters, trained from scratch
 - Data: 2.66B tokens (English + Math + Code)
 - Hardware: 1x RTX 5090 (32 GB), ~6.5 days
