@@ -1,4 +1,4 @@
-# Berna R7
+# Berna R7 - Root Model
 
 **A 1.06B multilingual language model with a modular cell-based architecture.**
 
@@ -16,11 +16,11 @@ Berna R7 implements the *DNA-Kernel Plexus* architecture from
 |-----------|--------|
 | Tokenizer (32k BPE) | complete |
 | Data pipeline | complete (2.66B tokens) |
-| Mother training | in progress (~5 October 2026) |
+| Root model training | in progress (~5 October 2026) |
 | Cell system (R5) | implemented |
-| H1 experiment (splitting) | after Mother |
-| H2 experiment (forgetting) | after Mother |
-| Baseline comparison | after Mother |
+| H1 experiment (splitting) | after Root |
+| H2 experiment (forgetting) | after Root |
+| Baseline comparison | after Root |
 | Weights on HuggingFace | after training |
 
 ## Architecture

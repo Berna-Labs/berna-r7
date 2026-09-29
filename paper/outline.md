@@ -41,7 +41,7 @@ Berna R7: A 1.06B Multilingual Language Model with a Modular Cell-Based Architec
 - Theoretical completeness.
 
 ## Timeline
-- Mother training: ~5 October 2026
+- Root model training: ~5 October 2026
 - H1 + H2 experiments: ~10 October 2026
 - Baselines: ~12 October 2026
 - Draft complete: ~17 October 2026

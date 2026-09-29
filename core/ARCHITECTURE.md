@@ -1,4 +1,4 @@
-# Berna R7 Architecture
+# Berna R7 - Root Model Architecture
 
 **Version:** 1.0
 **Lineage:** R5 (DNA-Kernel Plexus, DOI: 10.5281/zenodo.23015308)
