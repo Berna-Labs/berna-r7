@@ -1,0 +1,47 @@
+# Data (large)
+data/
+*.npy
+*.safetensors
+*.pt
+*.bin
+
+# Checkpoints
+checkpoints/
+checkpoints_*/
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Exports
+exports/
+*.tar.gz
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local-only
+*.bak
+*.bak_*
+*.pid
+mother.pid
+mother_started.txt
+# R7-specific paths
+/core/data/
+/core/cells/
+/core/logs/
+/core/checkpoints/
+/exports/
+/docs/
+core/cells/dna/
+core/code/dataset_r4_backup.py
+core/code/cells/dna_kernel_fix.py

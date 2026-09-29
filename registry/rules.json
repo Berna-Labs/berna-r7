@@ -1,0 +1,40 @@
+{
+  "version": "v1",
+  "description": "R7 runtime router rules (R5 Spinal-Cord compatible)",
+  "rules": [
+    {
+      "name": "math_detect",
+      "domain": "math",
+      "signals": ["\\int", "\\sum", "\\frac", "sin(", "cos(", "احسب", "معادلة", "ما هو ناتج"],
+      "min_signals": 2
+    },
+    {
+      "name": "code_detect",
+      "domain": "code",
+      "signals": ["def ", "class ", "import ", "function ", "```", "return "],
+      "min_signals": 1
+    },
+    {
+      "name": "lang_ar_detect",
+      "domain": "ar",
+      "regex": "[\u0600-\u06FF]",
+      "min_match_ratio": 0.3
+    },
+    {
+      "name": "default_fallback",
+      "domain": "mother",
+      "priority": -1
+    }
+  ],
+  "policy": {
+    "verification": {
+      "check_path_exists": true,
+      "check_config_matches_manifest": true,
+      "check_status_active": true
+    },
+    "dispatch": {
+      "mode": "cell_first_with_mother_verify",
+      "fallback_to_mother": true
+    }
+  }
+}

@@ -1,0 +1,97 @@
+Berna Research License v1.0
+
+Copyright (c) 2026 Berna Labs
+
+1. DEFINITIONS
+
+   "Software" means the Berna R7 source code, model weights,
+   documentation, proofs, and any associated files distributed
+   under this License.
+
+   "Research Use" means use solely for academic, scientific,
+   or personal non-commercial purposes, including:
+   - Academic research at educational institutions
+   - Non-commercial personal experimentation
+   - Publication of research results with attribution
+
+   "Commercial Use" means any use intended for or directed
+   toward commercial advantage or monetary compensation,
+   including:
+   - Integration into a commercial product or service
+   - Internal use by a for-profit entity for revenue-generating
+     activities
+   - Offering the Software or derivatives as a paid service
+
+2. GRANT FOR RESEARCH USE
+
+   Subject to the terms of this License, Berna Labs grants you
+   a worldwide, royalty-free, non-exclusive license to use,
+   reproduce, modify, and distribute the Software for Research
+   Use only.
+
+3. COMMERCIAL USE
+
+   Commercial Use of the Software requires a separate written
+   license from Berna Labs. Commercial licensing terms follow
+   the same standards as the Berna R4 project.
+
+   To inquire about commercial licensing, contact:
+       Berna Labs
+       Email: info@bernalabs.com
+       Subject: Commercial License Inquiry - Berna R7
+
+4. CONDITIONS
+
+   For any Research Use:
+   a. You must retain this License file and all copyright
+      notices in all copies or substantial portions of the
+      Software.
+   b. You must provide clear attribution to Berna Labs in any
+      publication or public presentation of results derived
+      from the Software.
+   c. You may not sublicense the Software under different terms.
+   d. You may not remove or alter any Zero-Error invariant
+      markers or safety mechanisms.
+
+5. RESTRICTIONS
+
+   You may NOT:
+   a. Use the Software for any Commercial Use without a
+      separate license.
+   b. Use the Software for military applications, mass
+      surveillance, or any purpose violating international
+      human rights law.
+   c. Claim endorsement by Berna Labs without prior written
+      permission.
+   d. Use the Software to train models intended for the
+      restricted uses above.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+   OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. TERMINATION
+
+   This License terminates automatically if you breach any of
+   its terms. Upon termination, you must cease all use of the
+   Software and destroy all copies.
+
+8. GOVERNING LAW
+
+   This License shall be governed by the laws of the Republic
+   of Iraq, without regard to its conflict of law provisions.
+
+9. CONTACT
+
+   Berna Labs
+   https://github.com/berna-labs
+   info@bernalabs.com
+
+END OF LICENSE

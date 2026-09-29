@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "model_uuid": "mother-001",
+  "description": "Facets taxonomy for Mother (eng + math + code only). Children extend this with their own domains.",
+  "domains": {
+    "english": ["grammar", "vocabulary", "style", "rhetoric", "comprehension", "composition", "idioms", "register"],
+    "math": ["arithmetic", "algebra", "geometry", "calculus", "logic", "proof", "statistics", "number_theory"],
+    "code": ["syntax", "algorithms", "data_structures", "debugging", "design_patterns", "testing", "performance", "security"]
+  }
+}
